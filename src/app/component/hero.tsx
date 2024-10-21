@@ -16,7 +16,7 @@ const Hero = () => {
        
       >
         <h1 className="title-font sm:text-4xl text-3xl mb-4 font-medium text-gray-900">
-          I am our Website
+          Welcome To Our Website
         </h1>
            
         <p className="mb-8 leading-relaxed">
